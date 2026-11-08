@@ -1,0 +1,7 @@
+# Archivos que genera NetBeans al compilar (no se suben a GitHub)
+build/
+dist/
+# Configuración propia de cada computadora
+nbproject/private/
+# Archivos de datos que el servidor crea al ejecutarse (se regeneran solos)
+datos/
